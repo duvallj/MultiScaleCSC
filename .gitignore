@@ -1,0 +1,14 @@
+# Ignore python artifacts
+__pycache__/
+*.pyc
+
+# Ignore training files
+*.zip
+GarageImages/
+
+# Ignore checkpoint directory
+checkpoints/
+
+# Ignore virtual environment
+venv/
+.ycm_extra_conf.py
